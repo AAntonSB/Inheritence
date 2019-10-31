@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Inheritance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Inheritance_jar</output-path>
+    <root id="archive" name="Inheritance.jar">
+      <element id="module-output" name="Inheritance" />
+    </root>
+  </artifact>
+</component>
